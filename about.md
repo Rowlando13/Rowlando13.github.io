@@ -2,28 +2,22 @@
 layout: page
 title: About
 ---
+## This Site
 
-<p class="message">
-  Hi there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+This website is my place for my work that does not already have a place. Sometimes Medium is best (high page rank); sometimes github is best (version control); other times I need a place where I control everything (here)
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Me
 
-There are currently two themes built on Poole:
+Curious
+Not many people I have met are more curious me. Some people are strong. Some people are good looking. I wonder about stuff, mostly mathematics, science, software, religion, and rock climbing, but really anything.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Long Thinker
+I like hard problems. The harder and larger the better. In college, I thought about religion a lot and mathematics as it applied to machine learning and quantum computing. In the Navy, I thought about what I was going to do when I was not in the Navy, but that is pretty much what everyone who is the Navy does. Now, human performance, natural language processing, religion a good bit, and job interviews.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Have questions or suggestions? Feel free to [ask me on Twitter](https://twitter.com/Rowlando_13).
 
-## Setup
+## Site 
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, [Poole](http://lanyon.getpoole.com) is an upstanding and effective butler that helps you build [Jekyll](https://jekyllrb.com) themes.
 
 Thanks for reading!
