@@ -19,6 +19,8 @@ form_thankyou = function (form_name) {
   // first element is Timestamp, next element is question
   document.getElementsByName(form_name)[0][0].value = 'Thank your for your submission!!'
   document.getElementsByName(form_name)[0][1].value = 'Thank your for your submission!!'
+  document.getElementsByName(form_name)[0][2].value = 'Thank your for your submission!!'
+  document.getElementsByName(form_name)[0][3].value = 'Thank your for your submission!!'
 }
 
 form_listen = function (form_name, submit_url) {
